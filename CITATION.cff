@@ -11,6 +11,7 @@ authors:
     given-names: Mohammad
     affiliation: "Department of Computer Engineering, Boukan Branch, Islamic Azad University, Boukan, Iran"
 license: MIT
+doi: 10.5281/zenodo.23592623
 repository-code: "https://github.com/hemnkhezri/FedGTCL"
 version: "1.0.0"
 date-released: "2026-10-23"

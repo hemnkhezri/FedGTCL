@@ -1,5 +1,8 @@
 # FedGTCL: Federated Graph-Temporal Contrastive Learning for IIoT Intrusion Detection
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23592623.svg)](https://doi.org/10.5281/zenodo.23592623)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Code for the paper
 
 > H. Khezri and M. Trik, *Reliable Federated Intrusion Detection for Industrial IoT under Non-IID Heterogeneity:
@@ -107,3 +110,7 @@ complete re-run of the core pipeline from the raw files. In short:
 
 Code: MIT (see `LICENSE`). The datasets keep their own licenses and are not redistributed here.
 Please cite the paper (see `CITATION.cff`).
+
+## Archive
+
+This repository is archived on Zenodo: https://doi.org/10.5281/zenodo.23592623
