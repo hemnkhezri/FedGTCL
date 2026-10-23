@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below and this archive."
+title: "FedGTCL: code for 'Reliable Federated Intrusion Detection for Industrial IoT under Non-IID Heterogeneity'"
+type: software
+authors:
+  - family-names: Khezri
+    given-names: Hemn
+    affiliation: "Department of Computer Engineering, Afagh Higher Education Institute, Urmia, Iran"
+    orcid: "https://orcid.org/0000-0002-4938-2658"
+  - family-names: Trik
+    given-names: Mohammad
+    affiliation: "Department of Computer Engineering, Boukan Branch, Islamic Azad University, Boukan, Iran"
+license: MIT
+repository-code: "https://github.com/hemnkhezri/FedGTCL"
+version: "1.0.0"
+date-released: "2026-10-23"
+keywords:
+  - federated learning
+  - intrusion detection
+  - Industrial Internet of Things
+  - graph neural networks
+  - contrastive learning
+preferred-citation:
+  type: article
+  title: "Reliable Federated Intrusion Detection for Industrial IoT under Non-IID Heterogeneity: A Lightweight Graph-Temporal Contrastive Learning Approach"
+  authors:
+    - family-names: Khezri
+      given-names: Hemn
+    - family-names: Trik
+      given-names: Mohammad
+  year: 2026
+  notes: "Under review. Journal, volume and DOI to be added on publication."

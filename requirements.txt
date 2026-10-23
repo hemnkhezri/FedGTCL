@@ -1,0 +1,6 @@
+# Versions used for the checks reported in docs/REPRODUCIBILITY.md (Python 3.11, CPU only).
+torch>=2.1          # checked with 2.14.0
+numpy>=1.24         # checked with 2.4.4
+pandas>=2.0         # checked with 3.0.2
+matplotlib>=3.7     # checked with 3.10.9
+pillow>=10.0        # checked with 12.2.0 (figure post-processing only)
